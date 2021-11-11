@@ -9,12 +9,23 @@ img {
     width: 100%;
 }
 
+h1 {
+    margin: 0;
+    font-weight: 100;
+}
+
+h2 {
+    margin: 0;
+    font-weight: 100;
+}
 .card { 
     background-color: #f3f3f3;
     border-radius: 15px;
     margin: 0 auto;
     width: 400px;
     text-align: center;
+    box-shadow: rgba(0,0,0, 0.1) 0 0 20px);
+    border: 2px solid #aaa;
 }
 
 .card .avatar {
